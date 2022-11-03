@@ -15,7 +15,7 @@
 * `npm >= 6.14.15` 
 
 
-### Installation
+### Configuration
 
 1. Install dependencies
    ```sh
