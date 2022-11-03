@@ -1,0 +1,15 @@
+version: '3.1'
+services:
+  eventloop-db:
+    container_name: eventloop-db
+    environment:
+      - POSTGRES_DB=eventloop-db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    networks:
+      - default
+    ports:
+      - 5445:5432
+    expose:
+      - 5445
+    image: 'postgres'
