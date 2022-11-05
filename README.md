@@ -5,6 +5,7 @@
   
 
   <h1 align="center">Event Loop - Non blocking I/O </h3>
+    <h2 align="center">Read the article on: </br > https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62 </h2>
 
 
 </div>
