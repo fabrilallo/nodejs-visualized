@@ -1,0 +1,17 @@
+{
+  "name": "02-event-loop-phases-and-more",
+  "version": "1.0.0",
+  "description": "02-event-loop-phases-and-more",
+  "scripts": {
+    "one": "node all-event-loop-phases.js",
+    "two": "node 2.js",
+    "three": "node 3.js",
+    "four": "node 4.js",
+    "five": "node 5.js",
+    "six": "node 6.js",
+    "seven": "node 6.js"
+  },
+  "keywords": [],
+  "author": "Node Doctors",
+  "license": "ISC"
+}

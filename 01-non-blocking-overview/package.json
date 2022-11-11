@@ -1,16 +1,15 @@
 {
-  "name": "first",
+  "name": "01-non-blocking-overview",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "01-non-blocking-overview",
   "scripts": {
     "seed": "node seed.js",
     "query": "node query.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Node Doctors",
   "license": "ISC",
   "dependencies": {
-    "pg": "^8.8.0"
+    "pg": "8.8.0"
   }
 }
