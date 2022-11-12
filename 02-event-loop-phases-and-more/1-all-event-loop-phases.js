@@ -1,3 +1,4 @@
+// this code will never execute the event loop phases in order because async ops may take an unknown amount of time
 const fs = require("fs");
 const https = require("https");
 const net = require("net");
