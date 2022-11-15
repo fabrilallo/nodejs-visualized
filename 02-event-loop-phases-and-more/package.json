@@ -3,13 +3,11 @@
   "version": "1.0.0",
   "description": "02-event-loop-phases-and-more",
   "scripts": {
-    "one": "node all-event-loop-phases.js",
-    "two": "node 2.js",
-    "three": "node 3.js",
-    "four": "node 4.js",
-    "five": "node 5.js",
-    "six": "node 6.js",
-    "seven": "node 6.js"
+    "one": "node 1-check-timers-non-deterministic.js",
+    "two": "node 2-check-and-timers-deterministic.js.js",
+    "three": "node 3-timers-microtasks.js",
+    "four": "node 4-timers-microtasks2.js",
+    "five": "node 5-timers-microtasks-nextTick.js",
   },
   "keywords": [],
   "author": "Node Doctors",
