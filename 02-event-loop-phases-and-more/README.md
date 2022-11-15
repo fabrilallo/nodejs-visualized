@@ -23,5 +23,5 @@
 
 Open the terminal and run: 
 ```sh
-   npm run all-event-loop-phases
+   npm run one
 ```
