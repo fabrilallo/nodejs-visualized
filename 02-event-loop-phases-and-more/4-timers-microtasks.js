@@ -2,10 +2,18 @@ setTimeout(() => {
   console.log('set timeout');
 });
 
-Promise.resolve(1).then(() => {
+const promise1 = new Promise(function callback(resolve, _reject) {
+  resolve();
+});
+
+const promise2 = new Promise(function callback(resolve, _reject) {
+  resolve();
+});
+
+promise1.then(() => {
   console.log('first promise');
 });
 
-Promise.resolve(2).then(() => {
+promise2.then(() => {
   console.log('second promise');
 });
