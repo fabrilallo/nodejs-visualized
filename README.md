@@ -4,7 +4,7 @@
 <div align="center">
   
 
-  <h1 align="center">An animated guide to Node.js Event Loop series </h3>
+  <h1 align="center">An animated guide to Node.js </h3>
   
 </div>
 
