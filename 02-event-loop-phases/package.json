@@ -4,12 +4,12 @@
   "description": "02-event-loop-phases-and-more",
   "scripts": {
     "one": "node 1-check-timers-non-deterministic.js",
-    "two": "node 2-check-and-timers-deterministic.js.js",
-    "three": "node 3-timers-microtasks.js",
-    "four": "node 4-timers-microtasks2.js",
-    "five": "node 5-timers-microtasks-nextTick.js",
+    "two": "node 2-check-and-timers-deterministic.js"
   },
   "keywords": [],
   "author": "Node Doctors",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
