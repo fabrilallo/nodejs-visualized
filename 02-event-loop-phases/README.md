@@ -4,10 +4,8 @@
 <div align="center">
   
 
-  <h1 align="center">Animated Node.js - Event Loop phases </h3>
-    <h2 align="center">Dev.to article :newspaper_roll: : </br >  </h2>
-   <h2 align="center">Twitter thread 🧵:  </br >  </h2>
-
+  <h1 align="center">Node.js visualized - Event Loop phases </h3>
+    <h2 align="center">Dev.to article :newspaper_roll: : https://dev.to/nodedoctors/animated-nodejs-event-loop-phases-1mcp</br >  </h2>
 
 
 </div>
