@@ -4,7 +4,7 @@
 <div align="center">
   
 
-  <h1 align="center">Animated Node.js - Promises and process.nextTick </h3>
+  <h1 align="center">Animated Node.js - Promises, async/await, and nextTick under the hood </h3>
     <h2 align="center">Dev.to article :newspaper_roll: : </br >  </h2>
    <h2 align="center">Twitter thread 🧵:  </br >  </h2>
 

@@ -1,0 +1,19 @@
+{
+  "name": "03-promises-async-await-and-process.nextick",
+  "version": "1.0.0",
+  "description": "03-promises-async-await-and-process.nextTick",
+  "scripts": {
+    "one": "node 1-promises-microtasks.js",
+    "two": "node 2-timers-microtasks.js",
+    "three": "node 3-async-then.js",
+    "four": "node 4-async-await.js",
+    "five": "node 5-microtask-event-loop-blocked.js",
+    "six": "node 6-timers-microtasks-nextTick.js"
+  },
+  "keywords": [],
+  "author": "Node Doctors",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

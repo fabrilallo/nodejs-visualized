@@ -1,7 +1,7 @@
 {
-  "name": "02-event-loop-phases-and-more",
+  "name": "02-event-loop-phases",
   "version": "1.0.0",
-  "description": "02-event-loop-phases-and-more",
+  "description": "02-event-loop-phases",
   "scripts": {
     "one": "node 1-check-timers-non-deterministic.js",
     "two": "node 2-check-and-timers-deterministic.js"
